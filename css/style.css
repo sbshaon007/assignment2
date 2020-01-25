@@ -1,0 +1,70 @@
+* {
+	margin:0px;
+	padding:0px;
+	color: black;
+}
+
+body{
+	font-family: 'Oswald', sans-serif;
+	background:url(../img/fm.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+
+.container{
+	
+	width: 739px;
+    margin: 10% auto;
+}
+
+
+.Login-section{
+
+	background: #732d2d4f;
+	padding: 43px;
+}
+
+.Login-section img{
+
+	margin: -29px auto;
+	display: block;
+}
+
+.Login-section h3{
+
+	text-align: center;
+	margin: 42px 0px;
+	font-size: 32px;
+	text-transform: uppercase;
+}
+
+.form-control {
+
+	width: 95%;
+	height: 34px;
+	padding: 5px;
+	margin-bottom: 21px;
+}
+
+.submit-btn {
+
+	display: block;
+	margin: 0px auto;
+	background: black;
+	padding: 15px 45px;
+	border: none;
+	color: white;
+	text-transform: uppercase;
+	transition: 0.2s ease-in-out;
+}
+
+.submit-btn:hover {
+	box-shadow: 1px 1px 26px #fff;
+	cursor: pointer;
+
+
+}
+
+
+ 
